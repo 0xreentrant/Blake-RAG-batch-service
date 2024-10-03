@@ -1,0 +1,9 @@
+{
+    "include": ["app"],
+    "pythonVersion": "3.9", 
+    "reportMissingImports": true,
+    "reportUnusedImport": true,
+    "extraPaths": [
+        "./app"
+    ]
+}
